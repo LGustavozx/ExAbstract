@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\estudos\\c#\\ExAbstract\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7151409E-6C95-494A-9523-DF401865DC89}|ExAbstract\\ExAbstract.csproj|d:\\estudos\\c#\\exabstract\\exabstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7151409E-6C95-494A-9523-DF401865DC89}|ExAbstract\\ExAbstract.csproj|solutionrelative:exabstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7151409E-6C95-494A-9523-DF401865DC89}|ExAbstract\\ExAbstract.csproj|d:\\estudos\\c#\\exabstract\\exabstract\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7151409E-6C95-494A-9523-DF401865DC89}|ExAbstract\\ExAbstract.csproj|solutionrelative:exabstract\\entities\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7151409E-6C95-494A-9523-DF401865DC89}|ExAbstract\\ExAbstract.csproj|d:\\estudos\\c#\\exabstract\\exabstract\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7151409E-6C95-494A-9523-DF401865DC89}|ExAbstract\\ExAbstract.csproj|solutionrelative:exabstract\\entities\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7151409E-6C95-494A-9523-DF401865DC89}|ExAbstract\\ExAbstract.csproj|d:\\estudos\\c#\\exabstract\\exabstract\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7151409E-6C95-494A-9523-DF401865DC89}|ExAbstract\\ExAbstract.csproj|solutionrelative:exabstract\\entities\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\estudos\\c#\\ExAbstract\\ExAbstract\\Entities\\Circle.cs",
+              "RelativeDocumentMoniker": "ExAbstract\\Entities\\Circle.cs",
+              "ToolTip": "D:\\estudos\\c#\\ExAbstract\\ExAbstract\\Entities\\Circle.cs",
+              "RelativeToolTip": "ExAbstract\\Entities\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T03:43:29.19Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "D:\\estudos\\c#\\ExAbstract\\ExAbstract\\Entities\\Rectangle.cs",
+              "RelativeDocumentMoniker": "ExAbstract\\Entities\\Rectangle.cs",
+              "ToolTip": "D:\\estudos\\c#\\ExAbstract\\ExAbstract\\Entities\\Rectangle.cs",
+              "RelativeToolTip": "ExAbstract\\Entities\\Rectangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T03:38:22.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "D:\\estudos\\c#\\ExAbstract\\ExAbstract\\Entities\\Shape.cs",
+              "RelativeDocumentMoniker": "ExAbstract\\Entities\\Shape.cs",
+              "ToolTip": "D:\\estudos\\c#\\ExAbstract\\ExAbstract\\Entities\\Shape.cs",
+              "RelativeToolTip": "ExAbstract\\Entities\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T03:34:37.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\estudos\\c#\\ExAbstract\\ExAbstract\\Program.cs",
+              "RelativeDocumentMoniker": "ExAbstract\\Program.cs",
+              "ToolTip": "D:\\estudos\\c#\\ExAbstract\\ExAbstract\\Program.cs",
+              "RelativeToolTip": "ExAbstract\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T03:34:06.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
